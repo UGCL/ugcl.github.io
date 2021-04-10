@@ -6,6 +6,7 @@ layout: page
 show_sidebar: true
 hero_image: /imgs/aerial_flip.jpg
 tabs: example_tabs
+permalink: /speakers/sohan/
 ---
 
 ## [Sohan Patro](https://www.linkedin.com/in/sohan-patro-14086a130/) (Microsoft Redmond)

@@ -3,11 +3,11 @@ style: is-boxed
 size: is-large
 items:
   - name: Koustuv Saha
-    link: /speakers/koustuv
+    link: /speakers/koustuv/
     icon: fa-angle-double-right
   - name: Sohan Patro
-    link: /speakers/sohan
+    link: /speakers/sohan/
     icon: fa-angle-double-right
   - name: Sopan Khosla
-    link: /speakers/sopan
+    link: /speakers/sopan/
     icon: fa-angle-double-right

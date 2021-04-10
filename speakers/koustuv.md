@@ -6,6 +6,7 @@ layout: page
 show_sidebar: true
 hero_image: /imgs/aerial_flip.jpg
 tabs: example_tabs
+permalink: /speakers/koustuv/
 ---
 
 ### [Koustuv Saha](https://koustuv.com) (Georgia Tech)
