@@ -9,8 +9,8 @@ tabs: example_tabs
 permalink: /speakers/sopan/
 ---
 
-## [Sopan Khosla](https://sopankhosla.github.io/) (Cargenie Mellon University)
+### [Sopan Khosla](https://sopankhosla.github.io/) (Cargenie Mellon University)
 
 lorem ipsum dolor sit amet
 
-**Profile:** https://sopankhosla.github.io/
+**Profile:** [https://sopankhosla.github.io/](https://sopankhosla.github.io/)
