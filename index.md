@@ -20,7 +20,7 @@ The event comprises two sessions, details of which have been briefly outlined be
 
 * **[Sohan Patro](/speakers/sohan) (Microsoft Redmond):** Sohan Patro is a Software Engineer at Microsft Redmond, with a prior experiences in the role of a Data Scientist while working at Microsoft Research. He is an Indian Institute of Technology (IIT) Kharagpur alumnus, with Bachelor's and Master's degree in Computer Science and Engineering. He has also been a part of ITRI Taiwan for an internship. [Click here](/speakers/sohan) to know more about Sohan.
 
-* **[Sopan Khosla](/speakers/sopan) (Cargenie Mellon University):**  [Click here](/speakers/sopan) to know more about Sopan.
+* **[Sopan Khosla](/speakers/sopan) (Cargenie Mellon University):** Sopan Khosla is an incoming PhD student (presently a second year Masters student) in the Language Technologies Institute at Carnegie Mellon University. He is am interested in coreference resolution, discourse modeling, information extraction from conversations, and external knowledge incorporation. Previously, he completed his Bachelor's in Computer Science from the Indian Institute of Technology (IIT) Roorkee as well as worked as a Research Engineer at Adobe Research India for two years. [Click here](/speakers/sopan) to know more about Sopan.
 
 [Click here](/speakers/koustuv) to learn more about our speakers.
 

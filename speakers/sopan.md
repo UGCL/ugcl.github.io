@@ -11,6 +11,6 @@ permalink: /speakers/sopan/
 
 ### [Sopan Khosla](https://sopankhosla.github.io/) (Cargenie Mellon University)
 
-lorem ipsum dolor sit amet
+More information would be added soon!
 
 **Profile:** [https://sopankhosla.github.io/](https://sopankhosla.github.io/)
