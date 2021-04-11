@@ -9,13 +9,14 @@ hero_image: imgs/aerial_flip.jpg
 
 **UGCL** is an _Affinity Group Social_ event to be held in conjunction with [EACL 2021](https://2021.eacl.org/program/diversity/) (the 16th conference of the European Chapter of the Association for Computational Linguistics).
 
+**_Update:_** Registrations are now open! <a href="https://docs.google.com/forms/d/e/1FAIpQLSeZ3jIU4g0hwQ1WR8AQT92_y6S5szqXl-RvcItzYtaDW6-ERA/viewform" target="_blank">Click here</a> to register. Please note that EACL 2021 registration is **NOT REQUIRED** for attending this social.
 ## Agenda
 The event comprises two sessions, details of which have been briefly outlined below:
 
-* **Session 1 (19th April 1130 to 1300 HRS EEST or UTC+3):** _Networking session_ ([Click here for timing in local timezone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=UGCL+Session+1&iso=20210419T1130&p1=367&ah=1&am=30))
+* **Session 1 (19th April 1130 to 1300 HRS EEST or UTC+3):** _Networking session_ ([Click here for local time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=UGCL+Session+1&iso=20210419T1130&p1=367&ah=1&am=30))  
 In this session, students would be facilitated to network among themselves so that they get to know one another and build friendships early to connect during the conference. This session would also enable the attendees to draw a perspective regarding the current research trends among this community as well provide a platform to talk about their areas of interest. It would also be an attempt to facilitate them to discuss other relevant topics, such as recent research works which inspire them, or some exciting research projects being done at their respective universities.
 
-* **Session 2 (20th April 1600 to 1700 HRS EEST or UTC+3):** _Talks and QnA_ ([Click here for timing in local timezone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=UGCL+Session+2&iso=20210420T16&p1=367&ah=1))
+* **Session 2 (20th April 1600 to 1700 HRS EEST or UTC+3):** _Talks and QnA_ ([Click here for local time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=UGCL+Session+2&iso=20210420T16&p1=367&ah=1))  
 The second session would feature short talks from current grad students and corporate researchers, followed by a discussion session. This session would focus on enlightening the attendees with information regarding what different research career paths look like, and reasons why (or why not) one should be pursuing a certain path. Moreover, they would get a chance to discuss with the speakers any queries they have. More information about the speakers have been provided in the section below.
 
 * **1:1 Sessions:** We are looking into the feasibility of organising 1:1 sessions between UG students and mentors. In case you are interested, kindly highlight the same in the registration form. We shall reach out to you over email with more details.
