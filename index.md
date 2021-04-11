@@ -7,7 +7,7 @@ show_sidebar: true
 hero_image: imgs/aerial_flip.jpg
 ---
 
-**UGCL** is an _Affinity Group Social_ event to be held in conjunction with [EACL 2021](https://2021.eacl.org/program/diversity/) (the 16th conference of the European Chapter of the Association for Computational Linguistics).
+**UGCL** is an _Affinity Group Social_ event to be held in conjunction with <a href="https://2021.eacl.org/program/diversity/" target="_blank"><b>EACL</b> 2021</a>(the 16th conference of the European Chapter of the Association for Computational Linguistics). Though this event is targeted towards undergraduate students, everyone broadly interested in machine learning or linguistics is encouraged to attend the session.
 
 **_Update:_** Registrations are now open! <a href="https://docs.google.com/forms/d/e/1FAIpQLSeZ3jIU4g0hwQ1WR8AQT92_y6S5szqXl-RvcItzYtaDW6-ERA/viewform" target="_blank">Click here</a> to register. Please note that EACL 2021 registration is **NOT REQUIRED** for attending this social.
 ## Agenda
