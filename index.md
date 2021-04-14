@@ -14,7 +14,7 @@ Registration is now open! <a href="https://docs.google.com/forms/d/e/1FAIpQLSeZ3
 Please note that EACL 2021 registration is **NOT REQUIRED** for attending UGCL.
 
 ## Agenda
-<i><a href="http://americast.github.io/ugcl.ics" target="_blank" download>Click here</a> to download calendar.</i>  
+<i><a href="https://americast.github.io/ugcl.ics" target="_blank" download>Click here</a> to download calendar.</i>  
 The event comprises two sessions, details of which have been briefly outlined below:
 
 * **Session 1 (19th April 1130 to 1300 HRS EEST or UTC+3):** _Networking session_ <a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=UGCL+Session+1&iso=20210419T1130&p1=367&ah=1&am=30" target="_blank">(Click here for local time)</a>  
